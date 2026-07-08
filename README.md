@@ -4,6 +4,10 @@ AI Resume Analyzer is a full-stack web application designed to evaluate PDF resu
 
 ---
 
+**Tech Stack:** React • Node.js • Express • MongoDB • Gemini 2.5 Flash • Tailwind CSS • Vite
+
+---
+
 ## Architecture Overview
 
 ```mermaid
