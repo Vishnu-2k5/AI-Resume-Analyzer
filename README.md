@@ -1,6 +1,6 @@
 # AI Resume Analyzer - Resume Evaluator & ATS Optimizer
 
-AI Resume Analyzer is a production-ready, full-stack web application designed to evaluate PDF resumes against job descriptions. Built using the MERN stack (MongoDB, Express, React, Node.js) and the Google Gemini 2.5 Flash model, it delivers instantaneous, actionable insights—including ATS Match Scores, missing skills, keyword analysis, suggestion roadmaps, and tailored professional summaries.
+AI Resume Analyzer is a full-stack web application designed to evaluate PDF resumes against job descriptions. Built using the MERN stack (MongoDB, Express, React, Node.js) and the Google Gemini 2.5 Flash model, it delivers instantaneous, actionable insights—including ATS Match Scores, missing skills, keyword analysis, suggestion roadmaps, and tailored professional summaries.
 
 ---
 
