@@ -214,14 +214,6 @@ npm run dev
 }
 ```
 
----
-
-## Screenshots
-
-*Screenshots demonstrating the visual interface will be added here upon deployment.*
-
----
-
 ## Future Improvements
 - **Multi-File Uploads**: Evaluate multiple resumes side-by-side.
 - **DOCX / Text formats**: Extend parsing capabilities to cover Microsoft Word resumes.
