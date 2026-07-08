@@ -11,3 +11,4 @@ Thumbs.db
 .vscode/
 server/uploads/*
 !server/uploads/.gitkeep
+PROJECT_GUIDE.md
